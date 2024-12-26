@@ -1,0 +1,17 @@
+I'm building a female sports magazine.
+For the MVP, I want to create a app that shows a report for a match with the following features:
+- Match chronicle
+- Match stats by team
+- Match stats by player
+- Match MVP
+- Heatmap visualization of shootings by team and player
+
+I also want my users to be able to see the profile of teams and players with the following features:
+- Aggregated stats and insights by team and player during the season
+- Heatmap of shootings by player and team
+
+For this, I want you to guide me on the creation of a Nextjs application. I will describe you later step by step how I want my app to be.
+First, can you guide me on setting up a new Nextjs app with TypeScript?
+I would also like to integrate prettier, lintstaged and husky.
+I will be using conventional commits, can you add guide me on adding commitlint?
+I will be using volta for managing system dependencies. Can you guide me on how to pin node and npm lts versions?

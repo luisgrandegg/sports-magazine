@@ -1,0 +1,8 @@
+Now, let's start getting into the code.
+
+We will start with the Player.
+I want you to create a PlayerService and a PlayerRepository class that we will use to get data from the players.
+I want the PlayerService to have the following methods:
+    get -> will get all players
+    getOne --> will receive a player id and will return that player
+    getHeatmap --> will receive a player id and will return the data to build a heatmap for that player
